@@ -1,7 +1,8 @@
 ## BrowserSpy
 
-Simple Jquery client detection.
+Simple Jquery client detection. Extended from the BrowserDetect Javascript class.
 
+### Below are avaiable properties that are available inside of the $.client object
 
 ```javascript
   $.client =
